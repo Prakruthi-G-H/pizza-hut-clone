@@ -15,7 +15,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 - 🎨  **Clean UI** – Inspired by the original Pizza Hut website for a realistic look
 - 📱 **Responsive Design** – Works seamlessly across mobile, tablet, and desktop screens 
 - 🧾 **Footer Section** – Includes navigation links, company info, social media icons, and app download badges  
-- 👣 Footer with policies, about, and contact links 
+
 
 ## 🛠️ Tech Stack
 
