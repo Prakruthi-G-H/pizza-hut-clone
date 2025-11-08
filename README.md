@@ -38,7 +38,9 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 5. No backend or server setup required
 
 ## ✨ Future Enhancements
+
 - Add JavaScript interactivity (e.g., cart and order functionality)
+- Implement backend (Java + MySQL) for storing orders and user data
 
 ## 👩‍💻 Developed by
 
