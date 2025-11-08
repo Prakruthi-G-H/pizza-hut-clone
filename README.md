@@ -33,8 +33,9 @@ This project is a front-end replica of a pizza delivery service, designed to sho
    `git clone https://github.com/Prakruthi-G-H/Pizza-hut-clone.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
-3. Open `index.html` to view the homepage  
-4. No backend or server setup required
+3. Open `index.html` to view the homepage
+4. Explore the Pizza Hut clone homepage 🍕
+5. No backend or server setup required
 
 
 ## 👩‍💻 Developed by
