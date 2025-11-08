@@ -43,6 +43,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 - Implement backend (Java + MySQL) for storing orders and user data
 - Add menu filtering and search based on pizza type or price
 - Integrate Google Maps API to show nearby Pizza Hut outlets
+- Include hover animations and transitions for smoother user experience
 
 ## 👩‍💻 Developed by
 
