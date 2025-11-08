@@ -19,7 +19,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 ## 🛠️ Tech Stack
 
 - **HTML5** - For webpage structure and content layout  
-- **CSS3**
+- **CSS3**  - For design, styling, and responsiveness  
 
 ## 📁 Folder Structure
 - `/Images` → Contains all images used in the website  
