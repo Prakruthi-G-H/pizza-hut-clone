@@ -44,6 +44,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 - Add menu filtering and search based on pizza type or price
 - Integrate Google Maps API to show nearby Pizza Hut outlets
 - Include hover animations and transitions for smoother user experience
+- Add a feedback form with validation and database storage
 
 ## 👩‍💻 Developed by
 
