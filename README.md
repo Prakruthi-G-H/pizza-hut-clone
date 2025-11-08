@@ -11,8 +11,9 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 
 - 🏠 **Landing Page** – Modern and visually appealing homepage design  
 - 📍 **Location Input** – Enter address or find your current location to discover local offers 
-- 🍕 Display of **most popular deals**  
+- 🍕 **Popular Deals Section** – Showcases trending pizza offers and combos  
 - 🎨  **Clean UI** – Inspired by the original Pizza Hut website for a realistic look
+- 📱 **Responsive Design** – Works seamlessly across mobile, tablet, and desktop screens 
 - 📱 App download section with **Play Store** and **App Store** links  
 - 👣 Footer with policies, about, and contact links 
 
