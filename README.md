@@ -41,6 +41,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 
 - Add JavaScript interactivity (e.g., cart and order functionality)
 - Implement backend (Java + MySQL) for storing orders and user data
+- Add menu filtering and search based on pizza type or price
 
 ## 👩‍💻 Developed by
 
