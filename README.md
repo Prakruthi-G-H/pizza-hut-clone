@@ -31,7 +31,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/Pizza-hut-clone.git`
+   `git clone https://github.com/Prakruthi-G-H/pizza-hut-clone.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
 3. Open `index.html` to view the homepage
