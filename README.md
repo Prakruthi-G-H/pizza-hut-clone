@@ -3,7 +3,7 @@
 A static and responsive **Pizza Ordering website clone** built using **HTML** and **CSS**.  
 This project is a front-end replica of a pizza delivery service, designed to showcase layout structuring, styling, and creativity.  
 
-## 🔗 Live Demo Links
+<!-- ## 🔗 Live Demo Links
 
   Pizza Hut Clone - [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)
 
