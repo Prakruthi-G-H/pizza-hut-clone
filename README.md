@@ -5,7 +5,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 
 <!-- ## 🔗 Live Demo Links
 
-  Pizza Hut Clone - [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)
+  Pizza Hut Clone - [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/) -->
 
 ## 🌟 Features  
 
