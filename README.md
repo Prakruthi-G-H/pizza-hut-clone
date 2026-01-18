@@ -47,7 +47,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 - Include hover animations and transitions for smoother user experience
 - Add a feedback form with validation and database storage
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  
