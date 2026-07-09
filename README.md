@@ -36,8 +36,9 @@ pizza-hut-clone/
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/pizza-hut-clone.git`
-
+  ```bash
+git clone https://github.com/Prakruthi-G-H/pizza-hut-clone.git
+```
 2. Open the folder in any browser or use Live Server in VS Code  
 3. Open `index.html` to view the homepage
 4. Explore the Pizza Hut clone homepage 🍕
