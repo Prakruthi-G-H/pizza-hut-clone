@@ -43,14 +43,15 @@ pizza-hut-clone/
 4. Explore the Pizza Hut clone homepage 🍕
 5. No backend or server setup required
 
-## ✨ Future Enhancements
+## 🔮 Future Improvements
 
-- Add JavaScript interactivity (e.g., cart and order functionality)
-- Implement backend (Java + MySQL) for storing orders and user data
-- Add menu filtering and search based on pizza type or price
-- Integrate Google Maps API to show nearby Pizza Hut outlets
-- Include hover animations and transitions for smoother user experience
-- Add a feedback form with validation and database storage
+- Add JavaScript for interactive features
+- Implement shopping cart functionality
+- Integrate a backend using Java, Spring Boot, and MySQL
+- Add user authentication
+- Implement menu search and filtering
+- Integrate Google Maps API for store locations
+- Add animations and smooth transitions
 
 ## 👩‍💻 Developed By
 
