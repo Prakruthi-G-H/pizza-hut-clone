@@ -13,11 +13,16 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 - HTML5
 - CSS3 
 
-## 📁 Folder Structure
-- `/Images` → Contains all images used in the website  
-- `index.html` → Main HTML file
-- `Pizzahut.css` → Main stylesheet 
-- `README.md` → Project documentation
+## 📂 Project Structure
+
+```
+pizza-hut-clone/
+│── Images/
+│── index.html
+│── Pizzahut.css
+│── README.md
+```
+
 ## 🌟 Features  
 
 - 🏠 **Landing Page** – Modern and visually appealing homepage design  
