@@ -23,14 +23,14 @@ pizza-hut-clone/
 │── README.md
 ```
 
-## 🌟 Features  
+## ✨ Features
 
-- 🏠 **Landing Page** – Modern and visually appealing homepage design  
-- 📍 **Location Input** – Enter address or find your current location to discover local offers 
-- 🍕 **Popular Deals Section** – Showcases trending pizza offers and combos  
-- 🎨  **Clean UI** – Inspired by the original Pizza Hut website for a realistic look
-- 📱 **Responsive Design** – Works seamlessly across mobile, tablet, and desktop screens 
-- 🧾 **Footer Section** – Includes navigation links, company info, social media icons, and app download badges  
+- 🍕 Responsive landing page
+- 📍 Location input section
+- 🔥 Popular deals and offers section
+- 🎨 Clean and modern user interface
+- 📱 Mobile, tablet, and desktop responsive design
+- 📋 Footer with navigation links, social media icons, and app download badges
 
 
 ## 🚀 How to Run
