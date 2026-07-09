@@ -8,10 +8,10 @@ This project is a front-end replica of a pizza delivery service, designed to sho
   Pizza Hut Clone - [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/) -->
 
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-- **HTML5** - For webpage structure and content layout  
-- **CSS3**  - For design, styling, and responsiveness  
+- HTML5
+- CSS3 
 
 ## 📁 Folder Structure
 - `/Images` → Contains all images used in the website  
